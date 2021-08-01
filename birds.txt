@@ -1,1 +1,2 @@
 a new test file about birds created in GitHub
+converted it to a text file
